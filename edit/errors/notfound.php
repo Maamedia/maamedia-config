@@ -43,7 +43,7 @@ a:hover { text-decoration: underline; }
 em { color: #72777d; font-style: normal; }
 </style>
 <div class="content" role="main">
-<a href="https://crm.maantietaja.org/projects"><img src="https://commons.maantietaja.org/images/6/69/Maamedia_Logo_Black.png" srcset="https://commons.maantietaja.org/images/6/69/Maamedia_Logo_Black.png 2x" alt=Maamedia width=135 height=135></a>
+<a href="https://crm.maamedia.org/projects"><img src="https://commons.maamedia.org/images/6/69/Maamedia_Logo_Black.png" srcset="https://commons.maa.edia.org/images/6/69/Maamedia_Logo_Black.png 2x" alt=Maamedia width=135 height=135></a>
 <h1>Page not found :(</h1>
 <p><em>$encUrl</em></p>
 <p>We could not find the above page on our servers.</p>
